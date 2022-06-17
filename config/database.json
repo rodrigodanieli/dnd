@@ -1,0 +1,9 @@
+{
+
+    "host"  : "192.168.0.73",
+    "port"  : "3306",
+    "user"  : "rdanieli",
+    "pass"  : "mdm239860@",
+    "base"  : "dnd"
+
+}

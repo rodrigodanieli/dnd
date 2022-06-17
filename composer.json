@@ -1,0 +1,18 @@
+{
+    "name": "rdanieli/dnd",
+    "autoload": {
+        "psr-4": {
+            "Dnd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RDanieli",
+            "email": "rodri.merlucci@gmail.com"
+        }
+    ],
+    "require": {
+        "sohris/core": "^0.2.10",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "host"  : "hti.dbsnoop.com",
+    "port"  : "8080",
+    "user"  : "ale_frontend",
+    "pass"  : "al3#xc@%12ldz",
+    "base"  : "alemonitor",
+    "query_timeout" : 10,
+    "pool_size" : 5
+}
